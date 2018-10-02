@@ -1,0 +1,178 @@
+{
+	"menuItems": [
+		{
+			"id": 1,
+			"title": "VESTIDOS",
+			"subMenu": [
+				{
+					"id": 8,
+					"title": "FIESTA"
+				},
+				{
+					"id": 9,
+					"title": "DOS PIEZAS"
+				},
+				{
+					"id": 10,
+					"title": "CASUALES"
+				},
+				{
+					"id": 11,
+					"title": "MAXI-VESTIDOS"
+				},
+				{
+					"id": 12,
+					"title": "BASICOS"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "ESTERIZOS",
+			"subMenu": [
+				{
+					"id": 13,
+					"title": "ESTERIZO SHORT"
+				},
+				{
+					"id": 14,
+					"title": "ESTERIZO PANTALON"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"title": "TOPS",
+			"subMenu": [
+				{
+					"id": 15,
+					"title": "BODIES"
+				},
+				{
+					"id": 16,
+					"title": "BLUSAS CASUALES"
+				},
+				{
+					"id": 17,
+					"title": "CROP TOPS"
+				},
+				{
+					"id": 18,
+					"title": "POLOS"
+				},
+				{
+					"id": 19,
+					"title": "BLUSAS DE FIESTA"
+				},
+				{
+					"id": 20,
+					"title": "TOP BASICO"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"title": "FALDAS & PANTALONES",
+			"subMenu": [
+				{
+					"id": 21,
+					"title": "MINI FALDAS"
+				},
+				{
+					"id": 22,
+					"title": "PANTALONES"
+				},
+				{
+					"id": 23,
+					"title": "FALDA LÁPIZ"
+				},
+				{
+					"id": 24,
+					"title": "SHORTS"
+				},
+				{
+					"id": 25,
+					"title": "MAXIFALDAS"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"title": "ACCESORIOS",
+			"subMenu": [
+				{
+					"id": 26,
+					"title": "PENDIENTES"
+				},
+				{
+					"id": 27,
+					"title": "PULSERAS"
+				},
+				{
+					"id": 28,
+					"title": "COLLARES"
+				},
+				{
+					"id": 29,
+					"title": "INTIMO"
+				},
+				{
+					"id": 30,
+					"title": "CARTERAS"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"title": "CHOMPAS",
+			"subMenu": [
+				{
+					"id": 31,
+					"title": "BASICA"
+				}
+			]
+		}
+	],
+
+	"menusSecondaryItems": [
+		{
+			"id": 190,
+			"title": "Login",
+			"icon": "ios-person",
+			"key": "login"
+		},
+		{
+			"id": 519,
+			"title": "Signup",
+			"icon": "ios-person-add",
+			"key": "signup"
+		},
+		{
+			"id": 19,
+			"title": "Wish List",
+			"icon": "heart",
+			"key": "wishlist"
+		},
+		{
+			"id": 20,
+			"key": "storeLocation",
+			"title": "Store Finder",
+			"icon": "ios-pin",
+			"key": "storeLocation"
+		},
+		{
+			"id": 21,
+			"key": "contact",
+			"title": "Contact Us",
+			"icon": "md-phone-portrait",
+			"key": "contact"
+		},
+		{
+			"id": 23,
+			"key": "newsletter",
+			"title": "Newsletter",
+			"icon": "md-paper",
+			"key": "newsletter"
+		}
+	]
+}

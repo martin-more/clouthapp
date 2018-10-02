@@ -1,0 +1,1038 @@
+{
+  "1": [{
+      "id": 1,
+      "categoryId": 8,
+      "categoryTitle": "FIESTA",
+      "title": "Vestido Zara",
+      "price": "S/. 70.00",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg"
+    },
+    {
+      "id": 2,
+      "categoryId": 8,
+      "categoryTitle": "FIESTA",
+      "title": "Vestido Short Rojo",
+      "price": "S/. 85.00",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/07/21/03/55/girl-3551832__340.jpg"
+    },
+    {
+      "id": 3,
+      "categoryId": 9,
+      "categoryTitle": "DOS PIEZAS",
+      "title": "Conjunto Perla",
+      "price": "S/. 75.00",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/08/29/22/52/sunflowers-3640935__340.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 10,
+      "categoryTitle": "CASUALES",
+      "title": "Vestido Bella",
+      "price": "S/. 75.00",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+    }
+  ],
+  "2": [{
+    "id": 5,
+    "categoryId": 13,
+    "categoryTitle": "ESTERIZO SHORT",
+    "title": "Romper Cruzado",
+    "price": "S/. 85.00",
+    "description": "Hello there, i'm a cool product with a heart of gold.",
+    "image": "https://cdn.pixabay.com/photo/2018/09/26/16/25/girl-3704998__340.jpg"
+  }],
+  "3": [{
+      "id": 6,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Polka Dots",
+      "price": "S/. 29.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/11/17/girl-3713241__340.jpg"
+    },
+    {
+      "id": 7,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Mariposa",
+      "price": "S/. 49.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/16/48/portrait-3713887__340.jpg"
+    },
+    {
+      "id": 8,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Ariana",
+      "price": "S/. 49.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/10/21/girl-3713110__340.jpg"
+    },
+    {
+      "id": 9,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Bonita",
+      "price": "S/. 49.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/10/21/girl-3713103__340.jpg"
+    },
+    {
+      "id": 10,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Catrina",
+      "price": "S/. 59.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/10/21/girl-3713104__340.jpg"
+    },
+    {
+      "id": 11,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Marilia",
+      "price": "S/. 59.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/08/04/20/48/woman-3584435__340.jpg"
+    },
+    {
+      "id": 12,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Marieta",
+      "price": "S/. 65.00",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/10/26/girl-3713125__340.jpg"
+    },
+    {
+      "id": 13,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Eli",
+      "price": "S/. 65.00",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2015/03/26/10/38/girl-691712__340.jpg"
+    },
+    {
+      "id": 14,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa bote",
+      "price": "S/. 65.00",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2016/03/09/09/22/girl-1245773__340.jpg"
+    },
+    {
+      "id": 15,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Angela",
+      "price": "S/. 65.00",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2015/03/26/10/07/young-690958__340.jpg"
+    },
+    {
+      "id": 16,
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+      "title": "Blusa Mencia",
+      "price": "S/. 69.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2015/03/26/09/45/person-690245__340.jpg"
+    },
+    {
+      "id": 17,
+      "categoryId": 17,
+      "categoryTitle": "CROP TOPS",
+      "title": "Top Mesh",
+      "price": "S/. 25.00",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/06/15/adult-1867743__340.jpg"
+    },
+    {
+      "id": 18,
+      "categoryId": 17,
+      "categoryTitle": "CROP TOPS",
+      "title": "Top Lazo 2.0",
+      "price": "S/. 49.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2016/03/27/19/57/cold-1284030__340.jpg"
+    },
+    {
+      "id": 19,
+      "categoryId": 19,
+      "categoryTitle": "BLUSAS DE FIESTA",
+      "title": "Bustier Ximena",
+      "price": "S/. 49.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/21/13/26/clothes-1845375__340.jpg"
+    },
+    {
+      "id": 20,
+      "categoryId": 20,
+      "categoryTitle": "TOP BASICO",
+      "title": "Top Ofelia",
+      "price": "S/. 29.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2018/01/11/09/51/two-3075744__340.jpg"
+    },
+    {
+      "id": 21,
+      "categoryId": 20,
+      "categoryTitle": "TOP BASICO",
+      "title": "Top Pretina",
+      "price": "S/. 29.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2015/01/20/14/28/fashion-605508__340.jpg"
+    },
+    {
+      "id": 22,
+      "categoryId": 20,
+      "categoryTitle": "TOP BASICO",
+      "title": "Top Envolvente",
+      "price": "S/. 39.90",
+      "description": "Hello there, i'm a cool product with a heart of gold.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/14/03/09/lady-1822464__340.jpg"
+    }
+  ],
+  "4": [],
+  "5": [],
+  "6": [{
+    "id": 99,
+    "categoryId": 31,
+    "categoryTitle": "BASICO",
+    "title": "Chompa Básica",
+    "price": "S/. 39.90",
+    "description": "Hello there, i'm a cool product with a heart of gold.",
+    "image": "https://cdn.pixabay.com/photo/2018/09/10/12/47/jeans-3666971__340.jpg"
+  }],
+  "7": [],
+
+
+  "8": [{
+      "id": 1,
+      "title": "Vestido Zara",
+      "price": "S/. 70.00",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+      "categoryId": 8,
+      "categoryTitle": "FIESTA",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/07/21/03/55/girl-3551832__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/21/47/fantasy-3705715__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 2,
+          "categoryId": 8
+        },
+        {
+          "id": 3,
+          "categoryId": 9
+        },
+        {
+          "id": 4,
+          "categoryId": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Vestido Short Rojo",
+      "price": "S/. 85.00",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/07/21/03/55/girl-3551832__340.jpg",
+      "categoryId": 8,
+      "categoryTitle": "FIESTA",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/07/21/03/55/girl-3551832__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 1,
+          "categoryId": 8
+        },
+        {
+          "id": 3,
+          "categoryId": 9
+        },
+        {
+          "id": 4,
+          "categoryId": 10
+        }
+      ]
+    }
+  ],
+  "9": [{
+    "id": 3,
+    "title": "Conjunto Perla",
+    "price": "S/. 75.00",
+    "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+    "image": "https://cdn.pixabay.com/photo/2018/08/29/22/52/sunflowers-3640935__340.jpg",
+    "categoryId": 9,
+    "categoryTitle": "DOS PIEZAS",
+
+    "colors": ["Red", "Blue", "Black"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/09/26/21/47/fantasy-3705715__340.jpg",
+      "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg",
+      "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+    ],
+    "similarItems": [{
+        "id": 1,
+        "categoryId": 8
+      },
+      {
+        "id": 2,
+        "categoryId": 8
+      },
+      {
+        "id": 4,
+        "categoryId": 10
+      }
+    ]
+  }],
+  "10": [{
+    "id": 4,
+    "title": "Vestido Bella",
+    "price": "S/. 75.00",
+    "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+    "image": "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg",
+    "categoryId": 10,
+    "categoryTitle": "CASUALES",
+
+    "colors": ["Red", "Blue", "Black"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+      "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg",
+      "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg",
+      "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+    ],
+    "similarItems": [{
+        "id": 1,
+        "categoryId": 8
+      },
+      {
+        "id": 2,
+        "categoryId": 8
+      },
+      {
+        "id": 3,
+        "categoryId": 9
+      }
+    ]
+  }],
+  "11": [],
+  "12": [],
+
+
+  "13": [{
+    "id": 5,
+    "title": "Romper Cruzado",
+    "price": "S/. 85.00",
+    "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+    "image": "https://cdn.pixabay.com/photo/2018/09/26/16/25/girl-3704998__340.jpg",
+    "categoryId": 13,
+    "categoryTitle": "ESTERIZO SHORT",
+
+    "colors": ["Red", "Blue", "Black"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/09/26/16/25/girl-3704998__340.jpg",
+      "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+      "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg",
+      "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+    ],
+    "similarItems": [{
+      "id": 1,
+      "categoryId": 8
+    }, {
+      "id": 2,
+      "categoryId": 8
+    }]
+  }],
+  "14": [],
+
+
+  "15": [],
+  "16": [{
+      "id": 6,
+      "title": "Blusa Polka Dots",
+      "price": "S/. 29.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/11/17/girl-3713241__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/09/30/11/17/girl-3713241__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 7,
+          "categoryId": 16
+        },
+        {
+          "id": 8,
+          "categoryId": 16
+        },
+        {
+          "id": 9,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Blusa Mariposa",
+      "price": "S/. 49.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/16/48/portrait-3713887__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/09/30/16/48/portrait-3713887__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 8,
+          "categoryId": 16
+        },
+        {
+          "id": 9,
+          "categoryId": 16
+        },
+        {
+          "id": 10,
+          "categoryId": 16
+        },
+        {
+          "id": 11,
+          "categoryId": 16
+        },
+        {
+          "id": 6,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Blusa Ariana",
+      "price": "S/. 49.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/10/21/girl-3713110__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/09/30/10/21/girl-3713110__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 7,
+          "categoryId": 16
+        },
+        {
+          "id": 9,
+          "categoryId": 16
+        },
+        {
+          "id": 6,
+          "categoryId": 16
+        },
+        {
+          "id": 10,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Blusa Bonita",
+      "price": "S/. 49.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/10/21/girl-3713103__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/09/30/10/21/girl-3713103__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 10,
+          "categoryId": 16
+        },
+        {
+          "id": 12,
+          "categoryId": 16
+        },
+        {
+          "id": 6,
+          "categoryId": 16
+        },
+        {
+          "id": 13,
+          "categoryId": 16
+        },
+        {
+          "id": 11,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Blusa Catrina",
+      "price": "S/. 59.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/10/21/girl-3713104__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/09/30/10/21/girl-3713104__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/21/47/fantasy-3705715__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 12,
+          "categoryId": 16
+        },
+        {
+          "id": 13,
+          "categoryId": 16
+        },
+        {
+          "id": 6,
+          "categoryId": 16
+        },
+        {
+          "id": 14,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Blusa Marilia",
+      "price": "S/. 59.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/08/04/20/48/woman-3584435__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/08/04/20/48/woman-3584435__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/07/21/03/55/girl-3551832__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 12,
+          "categoryId": 16
+        },
+        {
+          "id": 10,
+          "categoryId": 16
+        },
+        {
+          "id": 9,
+          "categoryId": 16
+        },
+        {
+          "id": 13,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Blusa Marieta",
+      "price": "S/. 65.00",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/09/30/10/26/girl-3713125__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/09/30/10/26/girl-3713125__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 13,
+          "categoryId": 16
+        },
+        {
+          "id": 14,
+          "categoryId": 16
+        },
+        {
+          "id": 15,
+          "categoryId": 16
+        },
+        {
+          "id": 16,
+          "categoryId": 16
+        },
+        {
+          "id": 9,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Blusa Eli",
+      "price": "S/. 65.00",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2015/03/26/10/38/girl-691712__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2015/03/26/10/38/girl-691712__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/03/26/10/38/girl-691712__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 15,
+          "categoryId": 16
+        },
+        {
+          "id": 11,
+          "categoryId": 16
+        },
+        {
+          "id": 12,
+          "categoryId": 16
+        },
+        {
+          "id": 7,
+          "categoryId": 16
+        },
+        {
+          "id": 16,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Blusa bote",
+      "price": "S/. 65.00",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2016/03/09/09/22/girl-1245773__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2016/03/09/09/22/girl-1245773__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 15,
+          "categoryId": 16
+        },
+        {
+          "id": 7,
+          "categoryId": 16
+        },
+        {
+          "id": 12,
+          "categoryId": 16
+        },
+        {
+          "id": 13,
+          "categoryId": 16
+        },
+        {
+          "id": 16,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Blusa Angela",
+      "price": "S/. 65.00",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2015/03/26/10/07/young-690958__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/07/21/03/55/girl-3551832__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 16,
+          "categoryId": 16
+        },
+        {
+          "id": 10,
+          "categoryId": 16
+        },
+        {
+          "id": 11,
+          "categoryId": 16
+        },
+        {
+          "id": 8,
+          "categoryId": 16
+        },
+        {
+          "id": 9,
+          "categoryId": 16
+        },
+        {
+          "id": 14,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Blusa Mencia",
+      "price": "S/. 69.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2015/03/26/09/45/person-690245__340.jpg",
+      "categoryId": 16,
+      "categoryTitle": "BLUSAS CASUALES",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2015/03/26/09/45/person-690245__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/21/47/fantasy-3705715__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 15,
+          "categoryId": 16
+        },
+        {
+          "id": 14,
+          "categoryId": 16
+        },
+        {
+          "id": 8,
+          "categoryId": 16
+        },
+        {
+          "id": 7,
+          "categoryId": 16
+        }
+      ]
+    }
+  ],
+  "17": [{
+      "id": 17,
+      "title": "Top Mesh",
+      "price": "S/. 25.00",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/06/15/adult-1867743__340.jpg",
+      "categoryId": 17,
+      "categoryTitle": "CROP TOPS",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2016/11/29/06/15/adult-1867743__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/07/21/03/55/girl-3551832__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 18,
+          "categoryId": 17
+        },
+        {
+          "id": 6,
+          "categoryId": 16
+        },
+        {
+          "id": 7,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Top Lazo 2.0",
+      "price": "S/. 49.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2016/03/27/19/57/cold-1284030__340.jpg",
+      "categoryId": 17,
+      "categoryTitle": "CROP TOPS",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2016/03/27/19/57/cold-1284030__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 17,
+          "categoryId": 17
+        },
+        {
+          "id": 7,
+          "categoryId": 16
+        },
+        {
+          "id": 10,
+          "categoryId": 16
+        },
+        {
+          "id": 12,
+          "categoryId": 16
+        }
+      ]
+    }
+  ],
+  "18": [],
+  "19": [{
+    "id": 19,
+    "title": "Bustier Ximena",
+    "price": "S/. 49.90",
+    "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+    "image": "https://cdn.pixabay.com/photo/2016/11/21/13/26/clothes-1845375__340.jpg",
+    "categoryId": 19,
+    "categoryTitle": "BLUSAS DE FIESTA",
+
+    "colors": ["Red", "Blue", "Black"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/07/21/03/55/girl-3551832__340.jpg"
+    ],
+    "similarItems": [{
+        "id": 17,
+        "categoryId": 17
+      },
+      {
+        "id": 18,
+        "categoryId": 17
+      },
+      {
+        "id": 10,
+        "categoryId": 16
+      },
+      {
+        "id": 14,
+        "categoryId": 16
+      }
+    ]
+  }],
+  "20": [{
+      "id": 20,
+      "title": "Top Ofelia",
+      "price": "S/. 29.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2018/01/11/09/51/two-3075744__340.jpg",
+      "categoryId": 20,
+      "categoryTitle": "TOP BASICO",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/01/11/09/51/two-3075744__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 21,
+          "categoryId": 20
+        },
+        {
+          "id": 22,
+          "categoryId": 20
+        },
+        {
+          "id": 19,
+          "categoryId": 19
+        },
+        {
+          "id": 15,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Top Pretina",
+      "price": "S/. 29.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2015/01/20/14/28/fashion-605508__340.jpg",
+      "categoryId": 20,
+      "categoryTitle": "TOP BASICO",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2015/01/20/14/28/fashion-605508__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/25/20/20/dress-739665__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 20,
+          "categoryId": 20
+        },
+        {
+          "id": 22,
+          "categoryId": 20
+        },
+        {
+          "id": 19,
+          "categoryId": 19
+        },
+        {
+          "id": 16,
+          "categoryId": 16
+        },
+        {
+          "id": 6,
+          "categoryId": 16
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Top Envolvente",
+      "price": "S/. 39.90",
+      "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+      "image": "https://cdn.pixabay.com/photo/2016/11/14/03/09/lady-1822464__340.jpg",
+      "categoryId": 20,
+      "categoryTitle": "TOP BASICO",
+
+      "colors": ["Red", "Blue", "Black"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "images": [
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/21/47/fantasy-3705715__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/28/17/05/spacer-3709717__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+      ],
+      "similarItems": [{
+          "id": 21,
+          "categoryId": 20
+        },
+        {
+          "id": 20,
+          "categoryId": 20
+        },
+        {
+          "id": 19,
+          "categoryId": 19
+        },
+        {
+          "id": 7,
+          "categoryId": 16
+        }
+      ]
+    }
+  ],
+
+  "21": [],
+  "22": [],
+  "23": [],
+  "24": [],
+  "25": [],
+
+  "26": [],
+  "27": [],
+  "28": [],
+  "29": [],
+  "30": [],
+
+  "31": [{
+    "id": 99,
+    "title": "Chompa Básica",
+    "price": "S/. 39.90",
+    "description": "Pellentesque orci lectus, bibendum iaculis aliquet id, ullamcorper nec ipsum. In laoreet ligula vitae tristique viverra. Suspendisse augue nunc, laoreet in arcu ut, vulputate malesuada justo. Donec porttitor elit justo, sed lobortis nulla interdum et. Sed lobortis sapien ut augue condimentum, eget ullamcorper nibh lobortis. Cras ut bibendum libero. Quisque in nisl nisl. Mauris vestibulum leo nec pellentesque sollicitudin. Pellentesque lacus eros, venenatis in iaculis nec, luctus at eros. Phasellus id gravida magna. Maecenas fringilla auctor diam consectetur placerat. Suspendisse non convallis ligula. Aenean sagittis eu erat quis efficitur. Maecenas volutpat erat ac varius bibendum. Ut tincidunt, sem id tristique commodo, nunc diam suscipit lectus, vel",
+    "image": "https://cdn.pixabay.com/photo/2018/09/10/12/47/jeans-3666971__340.jpg",
+    "categoryId": 31,
+    "categoryTitle": "BASICO",
+
+    "colors": ["Red", "Blue", "Black"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/09/10/12/47/jeans-3666971__340.jpg",
+      "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/19/15/52/puppy-3688871__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/21/47/fantasy-3705715__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/09/26/13/07/woman-3704587__340.jpg"
+    ],
+    "similarItems": [{
+        "id": 5,
+        "categoryId": 13
+      },
+      {
+        "id": 6,
+        "categoryId": 16
+      },
+      {
+        "id": 9,
+        "categoryId": 16
+      }
+    ]
+  }]
+}
